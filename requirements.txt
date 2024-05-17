@@ -1,0 +1,9 @@
+streamlit
+folium
+jinja2
+branca
+geopandas
+streamlit-folium
+leafmap
+owslib
+plotly
